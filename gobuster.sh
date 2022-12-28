@@ -35,10 +35,6 @@ center"***Setting up go buster.."
 cp go/bin/gobuster $PREFIX/bin
 
 echo
-center"***Cleaning post installation.."
-rm gobuster.sh
-
-echo
 center "*"
 echo -e "\033[32m Installation complete. \n Launch gobuster by executing: gobuster\033[0m"
 center "*"
