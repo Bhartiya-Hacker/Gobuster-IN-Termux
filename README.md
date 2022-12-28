@@ -9,7 +9,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/Gobuster-T
 # Mannual:-
 
 ```bash
-wget https://github.com/Bhartiya-Hacker/Gobuster-Termux/blob/main/gobuster.sh
+wget https://raw.githubusercontent.com/Bhartiya-Hacker/Gobuster-Termux/blob/main/gobuster.sh
 chmod +x gobuster.sh
 bash gobuster.sh
 ```
