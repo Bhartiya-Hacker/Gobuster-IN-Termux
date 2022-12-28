@@ -4,12 +4,12 @@ This Script will Install Gobuster in termux...
 ### Auto:-
 
 ```bash
-source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/Gobuster-Termux/blob/main/gobuster.sh) 
+source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/Gobuster-Termux/master/gobuster.sh) 
 ```
 # Mannual:-
 
 ```bash
-wget https://raw.githubusercontent.com/Bhartiya-Hacker/Gobuster-Termux/blob/main/gobuster.sh
+wget https://raw.githubusercontent.com/Bhartiya-Hacker/Gobuster-Termux/master/gobuster.sh
 chmod +x gobuster.sh
 bash gobuster.sh
 ```
