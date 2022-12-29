@@ -23,15 +23,15 @@ echo
 center "*** Dependencies installation..."
 
 echo 
-center"***Installing Go Language..."
+center "***Installing Go Language..."
 apt install golang
 
 echo 
-center"***Installing Gobuster.."
+center "***Installing Gobuster.."
 go install github.com/OJ/gobuster/v3@latest
 
 echo 
-center"***Setting up go buster.."
+center "***Setting up go buster.."
 cp go/bin/gobuster $PREFIX/bin
 
 echo
