@@ -21,9 +21,6 @@ source <(echo "c3Bpbm5lcj0oICd8JyAnLycgJy0nICdcJyApOwoKY291bnQoKXsKICBzcGluICYKI
 
 echo
 center "*** Dependencies installation..."
-
-echo 
-center "***Installing Go Language..."
 apt install golang
 
 echo 
@@ -36,5 +33,5 @@ cp go/bin/gobuster $PREFIX/bin
 
 echo
 center "*"
-echo -e "\033[32m Installation complete. \n Launch gobuster by executing: gobuster\033[0m"
+echo -e "\033[32m Installation complete. \n Launch gobuster by executing: gobuster -h\033[0m"
 center "*"
