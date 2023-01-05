@@ -17,5 +17,5 @@ bash gobuster.sh
 
 After installation complete execute:
 ```bash
-gobuster
+gobuster -h
 ```
